@@ -1,0 +1,32 @@
+body {
+    background: url("./bombonera.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: 40px;
+    text-align: center;
+    
+
+
+    }
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div img {
+    width: 200px;
+}
+
+.tarjeta{
+    color: blue;
+    background-color: rgba(229, 255, 0, 0.839);
+}
